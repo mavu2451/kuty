@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada:wght@300&display=swap');
+
+*{
+    font-family: 'Radio Canada', sans-serif;
+}
+.carousel-item{
+    height:70vh;
+
+}
+#navl{
+    font-weight: 1000;
+}
+#tk{
+    font-weight: 1000;
+}
+.carousel-caption{
+    text-align:left;
+}
+.modal-body{
+    padding-left:10%;
+    padding-right:10%;
+}
+.modal-body span{
+    color:red;
+}
+.cart-title{
+    color:red;
+    font-weight: 1000;
+    font-size:26px;
+}
+.cart-price{
+    font-weight: 600;
+}
+#sp{
+    text-decoration: none;
+    overflow: hidden;
+}
+.sidebar{
+    float:left;
+    width:25%;
+    padding-right:5%;
+    padding-top:5%;
+}
+#giohang{
+    width:50px;
+    height:50px;
+    margin-right:20px;
+}
+.content{
+    float:left;
+    width:75%;
+    max-width: 1400px;
+}
+.bot{
+    clear:both;
+    padding-top:10%;
+    padding-left:40%;
+}
+.cart-box{
+   box-shadow: 0 0 20px rgb(0,0,0,0.5);
+    margin:10px;
+    border-radius:10px;
+}
+.content img{
+    width:300px;
+    height:300px;
+}
+
+.cart-box{
+    display:grid;
+    padding-left: 10px;
+    float:left;
+
+}
+#bct{
+    width:200px;
+}
+#imgitem{
+    width:400px;
+}
+.cart-box:hover{
+     cursor:pointer;
+}
+
+#sp {
+    padding-left:20px;
+}
+
+#sap {
+    list-style-type: none;
+    text-decoration: none;
+    color:black;
+    font-size:24px;
+    border-bottom: 1px dashed #e7e7e7;
+}
+#sap a{
+    list-style-type: none;
+    text-decoration: none;
+    color:black;
+}
+#nameitem{
+    color:red;
+}
+.cart-price img{
+
+    width:32px;
+    height:32px;
+}
+.aside{
+    padding-top:50px;
+}
+.main-footer{
+    clear:both;
+    padding-top:100px;
+}
